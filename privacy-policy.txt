@@ -1,0 +1,28 @@
+Privacy Policy:
+Last updated: August 20th, 2023
+                
+1. DEFINITIONS
+2. DATA COLLECTION
+3. USE OF DATA
+4. CONTACT US
+
+1. DEFINITIONS
+
+"I", "we", "us", "our" and "Voxoun Games": The developer(s).
+"services", "game": Games/services developed and published by Voxoun Games.
+
+2. DATA COLLECTION
+
+We do not collect data about you. The only data collected is stored on Meta services.
+
+3. USE OF DATA
+
+We use your information to provide our Services.
+
+Data is stored only on Oculus/Meta servers, which is used to allow the following features:
+- Leaderboards
+- Saving between sessions
+
+4. CONTACT US
+If you have any questions about our privacy practices or this Privacy Policy, or to exercise your rights detailed in this Privacy Policy, please contact us at:
+Email: contact@voxoun.games  
