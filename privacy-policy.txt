@@ -10,10 +10,12 @@ Last updated: August 20th, 2023
 
 "I", "we", "us", "our" and "Voxoun Games": The developer(s).
 "services", "game": Games/services developed and published by Voxoun Games.
+"Meta ID": The ID of the user's Meta account
+"Meta Display Name": The display name of the user's Meta account
 
 2. DATA COLLECTION
 
-We do not collect data about you. The only data collected is stored on Meta services.
+We collect your Meta ID, and we collect your Meta Display Name.
 
 3. USE OF DATA
 
